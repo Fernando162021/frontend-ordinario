@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #83a8f7;
+    color: #333;
+}
+
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+textarea {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 300px;
+    max-width: 100%;
+}
